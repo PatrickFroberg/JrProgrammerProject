@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimatorHandler">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Helpers\AnimatorHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Base">
+    <Position X="5.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Building.InventoryEntry" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Building.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAEAAAAEAAIAAAAAAAgIAAAAAAACAAAgAABAA=</HashCode>
+      <FileName>Assets\Scripts\Building.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ColorHandler">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Helpers\ColorHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorPicker">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAIAAAAQAAAgACCAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\Helpers\ColorPicker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContentEntry">
+    <Position X="17" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\ContentEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoPopup">
+    <Position X="13.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEEAAAAAAAAAAAAAAQAEAAAABAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\UI\InfoPopup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuUIHandler">
+    <Position X="15.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\MenuUIHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptimManager">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgCBAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Optimization\Scripts\OptimManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptimUnit">
+    <Position X="19.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAKABAAAgAABAAAAAIAAAAAAACACEAAAAAAo=</HashCode>
+      <FileName>Assets\Optimization\Scripts\OptimUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceDatabase">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgIAAEAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Helpers\ResourceDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceItem">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Helpers\ResourceItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourcePile">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAEAAAAAAAAAAAAAIEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ResourcePile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransporterUnit">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAMAAAEAAAAAgAAAAAAAAAAAAAAAAAACAAAAAABIA=</HashCode>
+      <FileName>Assets\Scripts\TransporterUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIMainScene">
+    <Position X="17" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Interface Name="UIMainScene.IUIInfoContent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\UI\UIMainScene.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQBBAAAAACAAAAAAAKAAAAAAAAAAAAAQAAAAAAAAEE=</HashCode>
+      <FileName>Assets\Scripts\UI\UIMainScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAECAAAAAAAAAAAAAFAAAAAQAAACgAAAAABMA=</HashCode>
+      <FileName>Assets\Scripts\Unit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UserControl">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAACAAAAAAAAAAAQAAAAEAAAAAABgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UserControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
